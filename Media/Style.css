@@ -1,0 +1,48 @@
+a:link
+{
+	color: #0066CC; text-decoration:none
+		font-family: Verdana, Arial, Helvetica; 
+}
+
+a:visited
+{
+	color: #0066CC; text-decoration:none
+		font-family: Verdana, Arial, Helvetica; 
+}
+
+
+
+a:hover
+{
+	color: #0000FF;text-decoration:underline
+		font-family: Verdana, Arial, Helvetica; 
+}
+
+.BoxBottom   { background-color: #054D7C}
+.BoxMiddleRight {font-family: Verdana, Arial, Helvetica; background-color: #FFFFFF; font-size:10pt}
+.BoxMiddleLeft {font-family: Verdana, Arial, Helvetica; background-color: #054D7C; color:#FFFFFF; font-size:8pt}
+.BoxMiddleLeftSelected {font-family: Verdana, Arial, Helvetica; background-color: #054D7C; color:#FFFFFF; font-size:8pt; text-decoration:underline; font-weight:bold; text-align:left}
+.BoxTopRight { background-color: #007AD0}
+.BoxTopLeft  {font-family: Verdana, Arial, Helvetica; background-color: #0066AA; color:#FFFFFF; font-size:8pt}
+.Footer {font-family: Verdana, Arial, Helvetica; font-size:8pt}
+.Tool {font-family: Verdana, Arial, Helvetica; background-color: #333333; font-size:8pt}
+
+
+body
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: #333333; background-color:#FFFFFF
+}
+h2, h3, h4, h5, h6
+{
+	font-family: Verdana, Arial, Helvetica;
+}
+h1
+{
+	color: #333333; text-decoration:none; font-size:18pt;
+	font-family: Verdana, Arial, Helvetica;
+}
+.ToolBar
+{
+font-family: Verdana; color: #FFFFFF; font-size: 10px; background-color: 
+               #999999; font-family: Verdana, Arial, Helvetica;}
